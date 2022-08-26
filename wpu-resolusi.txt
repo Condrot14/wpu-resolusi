@@ -4,3 +4,4 @@ WPU RESOLUSI
 - Menghitung Kebutuhan Tenaga kerja
 - Menghitung Rencana Anggaran Biaya
 - Membuat Rekapan RAB
+- Membuat Time Schedule Pekerjaan
