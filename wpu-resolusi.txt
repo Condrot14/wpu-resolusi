@@ -3,4 +3,4 @@ WPU RESOLUSI
 - Menghitung Volume Pekerjaan
 - Menghitung Kebutuhan Tenaga kerja
 - Menghitung Rencana Anggaran Biaya
-- Membuat Rekapan
+- Membuat Rekapan RAB
