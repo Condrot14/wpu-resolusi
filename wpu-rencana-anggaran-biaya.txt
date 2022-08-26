@@ -1,0 +1,4 @@
+HARGA SATUAN PEKERJAAN
+- Harga satuan upah 
+- Harga satuan bahan 
+- Harga satuan peralatan
