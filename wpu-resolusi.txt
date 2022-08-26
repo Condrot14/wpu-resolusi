@@ -1,0 +1,6 @@
+WPU RESOLUSI
+- Merekap Daftar Harga Satuan Upah, Bahan Dan Peralatan
+- Menghitung Volume Pekerjaan
+- Menghitung Kebutuhan Tenaga kerja
+- Menghitung Rencana Anggaran Biaya
+- Membuat Rekapan
